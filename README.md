@@ -1,1 +1,1 @@
-# Test task for [Academy SMART](https://academysmart.com/)
+## Test task for [Academy SMART](https://academysmart.com/)
