@@ -1,1 +1,1 @@
-# academy-smart-test
+# Test task for [Academy SMART](https://academysmart.com/)
